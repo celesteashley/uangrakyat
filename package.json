@@ -1,8 +1,8 @@
 {
-  "name": "tea-convert",
+  "name": "uang-rakyat",
   "type": "module",
   "version": "1.0.6",
-  "description": "A simple utility library to format currency and convert numbers to words in Indonesian Rupiah.",
+  "description": "A change money",
   "main": "src/formatCurrency.js",
   "scripts": {
     "start": "nodemon",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Faresapn/tea-first-project.git"
+    "url": "https://github.com/celesteashley/uangrakyat.git"
   },
   "keywords": [
     "currecy",
     "K format",
     "Indonesian Currency"
   ],
-  "author": "faresapn <faresaprasetyon@gmail.com>",
+  "author": "celesteashley",
   "license": "MIT",
   "homepage": "",
   "devDependencies": {
